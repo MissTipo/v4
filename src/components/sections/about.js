@@ -125,7 +125,19 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = [
+    'Docker',
+    'Kubernetes',
+    'Airflow Breeze',
+    'JavaScript (ES6+)',
+    'TypeScript',
+    'Python',
+    'Go',
+    'Node.js',
+    'PostgreSQL',
+    'MySQL',
+    'MongoDB',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,21 +147,34 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello! My name is Dorine. and I am a backend Software Engineer with a strong passion
+              for opens source technologies and collaborative problem-solving.My journey into
+              technology began in an unconventional way. I hold a BSc in Biology, but my curiosity
+              and drive to innovate led me to transition into tech through an intensive Software
+              Engineering program at Holberton School. Specializing in backend development, I gained
+              solid foundation in building secure and scalabe applications, designing APIs, managing
+              databases, and deploying systems.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              My portfoilio includes{' '}
+              <a href="https://github.com/MissTipo/collaboratEd">
+                a collaborative learning platform
+              </a>
+              , <a href="https://github.com/MissTipo/moon_cycle">a menstrual cycle tracker</a>, and{' '}
+              <a href="https://github.com/MissTipo/Kijani_Bikeshare">
+                an eco concious bike renting app
+              </a>
+              . Beyond personal projects, my commitment to continuous learning has led to
+              significant achievements in open source contributions. As a graduate of the Linux
+              Foundations Mentorship program with more than{' '}
+              <a href="https://git.kernel.org/pub/scm/linux/kernel/git/gregkh/staging.git/log/?h=staging-next&qt=grep&q=Dorine+Tipo">
+                5 patches
+              </a>{' '}
+              accepted into the mainline kernel, I have worked extensively with both dynamic and
+              static analysis tools, build systems, cross-compilers and virtualization tools. I have
+              contributed to critical areas of the Linux kernel, including device drivers,
+              selftests, and memory management.
             </p>
 
             <p>
@@ -173,7 +198,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpg"
+              src="../../images/dee.jpg"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}
