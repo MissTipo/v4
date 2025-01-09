@@ -1,13 +1,12 @@
 ---
-date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+date: '2024-09-01'
+title: 'Meshery contributor'
+company: 'Layer5.io'
+range: '2024-09-01 - Present'
+url: 'https://layer5.io/'
 ---
 
-- Developed and styled interactive web applications for Apple Music using Ember and SCSS
-- Built and shipped the Apple Music Extension for Facebook Messenger leveraging third-party and internal API integrations
-- Architected and implemented the user interface of Apple Music's embeddable web player widget for in-browser user authorization and full song playback
-- Contributed extensively to the creation of MusicKit JS, a public-facing JavaScript SDK for embedding Apple Music players into web applications
+- Contributing to the development of Meshery, an open-source cloud-native management plane enabling service mesh observability and lifecycle management
+- Designing and implementing enhancements to Meshery's backend systems using Go, improving the platform's scalability and performance
+- Fixing critical issues and enhancing the reliability of the Meshery CLI, enabling seamless interaction with the management plane for users
+- Collaborating with the community to address user feedback, refining user experience and improving documentation for Meshery

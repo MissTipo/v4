@@ -1,13 +1,13 @@
 ---
-date: '2018-05-14'
-title: 'Lead Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+date: '2024-03-01'
+title: 'Linux kernel mentee'
+company: 'Linux Foundation'
+range: 'March 2024 - August 2024'
+url: 'https://mentorship.lfx.linuxfoundation.org/mentee/b7a8b2f6-4c87-4da4-8aa8-26adef8a4177'
 ---
 
-- Deliver high-quality, robust production code for a diverse array of projects for clients including Harvard Business School, Everytown for Gun Safety, Pratt Institute, Koala Health, Vanderbilt University, The 19th News, and more
-- Work alongside creative directors to lead the research, development, and architecture of technical solutions to fulfill business requirements
-- Collaborate with designers, project managers, and other engineers to transform creative concepts into production realities for clients and stakeholders
-- Provide leadership within engineering department through close collaboration, knowledge shares, and mentorship
+- Diagnosing and resolving issues with the Linux kernel
+- Utilizing event tracing tools to monitor, analyze and identify performance bottlenecks
+- Identifying and fixing style violations, documentaion errors, and contributing to general kernel cleanup by removing dead code
+- Applying semantic patching with Coccinelle to automate code transformations, including optimizing memory management by eliminating redundant function calls and replacing them with more efficient alternatives.tives
+- Developed a test for PR_SVE_VL_INHERIT functionality after a double fork in ARM64 self-tests.

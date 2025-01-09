@@ -1,12 +1,10 @@
 ---
-date: '2015-12-21'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
-location: 'Boston, MA'
-range: 'July - December 2015'
-url: 'https://us.mullenlowe.com/'
+date: '2023-12-08'
+title: 'Kubernetes website Contributor'
+company: 'Kubernetes'
+range: '2023-12-06 - 2023-12-08'
+url: 'https://github.com/kubernetes/website/pull/44273'
 ---
 
-- Developed, maintained, and shipped production code for client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
-- Performed quality assurance tests on various sites to ensure cross-browser compatibility and mobile responsiveness
-- Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more
+- Added load balancing guidance for workloads in "Production environment" page
+- Ammended production-environment to mention load balancing for workloads
