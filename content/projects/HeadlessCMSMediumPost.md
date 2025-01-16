@@ -1,15 +1,15 @@
 ---
-date: '2019-11-12'
-title: 'Building a Headless Mobile App CMS From Scratch'
+date: '2023-12-18'
+title: 'Docker Essentials: A Developer Introduction'
 github: ''
-external: 'https://medium.com/stories-from-upstatement/building-a-headless-mobile-app-cms-from-scratch-bab2d17744d9'
+external: 'https://courses.cognitiveclass.ai/certificates/9b0797d2c7334136af78d21340447b19'
 tech:
-  - Node
-  - Express
-  - Firebase
-  - Vue
-company: 'Upstatement'
+  - Docker
+  - Containerization
+  - Orchestration
+  - Docker Swarm
+company: 'IBM'
 showInProjects: true
 ---
 
-Find out how we built a custom headless CMS with Node, Express, and Firebase for a project at Upstatement
+In this course, I learned the essentials of Docker and containerization. I learned how to run containers in production, orchestrate multi-container applications with Docker Compose, deploy multi-container applications with Docker Swarm and solve problems of Orchestration such as high availability, service discovery and reconciliation.
