@@ -1,10 +1,10 @@
 ---
-date: '2023-12-08'
-title: 'Kubernetes website Contributor'
-company: 'Kubernetes'
-range: '2023-12-06 - 2023-12-08'
-url: 'https://github.com/kubernetes/website/pull/44273'
+date: '2025-06-07'
+title: 'Software Engineering Intern'
+company: 'Commit Global'
+range: '2025-03-07 - 2025-06-07'
+url: 'https://www.commitglobal.org/en'
 ---
 
-- Added load balancing guidance for workloads in "Production environment" page
-- Ammended production-environment to mention load balancing for workloads
+- Developed comprehensive unit and integration tests for a Django-based user management system, improving code reliability and coverage.
+- Gained hands-on experience with Django testing frameworks, debugging, and collaborative version control workflows within an agile environment.

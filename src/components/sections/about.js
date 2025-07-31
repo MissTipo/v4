@@ -147,12 +147,12 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Dorine. and I am a backend Software Engineer with a strong passion
-              for opens source technologies and collaborative problem-solving.My journey into
-              technology began in an unconventional way. I hold a BSc in Biology, but my curiosity
-              and drive to innovate led me to transition into tech through an intensive Software
-              Engineering program at Holberton School. Specializing in backend development, I gained
-              solid foundation in building secure and scalabe applications, designing APIs, managing
+              Hello! My name is Dorine. I am a backend Software Engineer with a strong passion for
+              opens source technologies and collaborative problem-solving.My journey into technology
+              began in an unconventional way. I hold a BSc in Biology, but my curiosity and drive to
+              innovate led me to transition into tech through an intensive Software Engineering
+              program at Holberton School. Specializing in backend development, I gained solid
+              foundation in building secure and scalabe applications, designing APIs, managing
               databases, and deploying systems.
             </p>
 
